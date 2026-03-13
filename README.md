@@ -69,4 +69,4 @@ The system follows these core steps:
 * **Contact**: arlen_diego@163.com
 
 
-Copyright (c) 2026 Arlen Diego. All rights reserved. The executable is provided for academic evaluation only.
+Copyright (c) 2026 Arlen Diego. All rights reserved. Only for academic evaluation.
